@@ -18,6 +18,7 @@ de
 .
 ,
 la
+a
 i
 pi
 cuadrada
